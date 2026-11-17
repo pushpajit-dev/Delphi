@@ -1,0 +1,1 @@
+var e={effort:7,progressive:!1,epf:-1,lossyPalette:!1,decodingSpeedTier:0,photonNoiseIso:0,lossyModular:!1};export{e as t};
